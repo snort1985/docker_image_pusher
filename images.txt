@@ -1,3 +1,7 @@
-redis
-mysql:5.7
-mysql:8.0.24
+kube-apiserver
+kube-controller-manager
+kube-scheduler
+kube-proxy
+pause
+etcd
+coredns
