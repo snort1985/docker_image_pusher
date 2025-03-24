@@ -1,1 +1,1 @@
-clickhouse/clickhouse-server
+supersonic
