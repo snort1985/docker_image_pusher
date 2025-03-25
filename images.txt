@@ -1,3 +1,4 @@
 #registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.15.0
 #google/cadvisor:latest
-quay.io/tigera/operator:v1.36.5
+#quay.io/tigera/operator:v1.36.5
+registry.k8s.io/metrics-server/metrics-server:v0.7.2
