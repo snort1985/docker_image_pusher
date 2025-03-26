@@ -1,10 +1,16 @@
-#registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.15.0
-#google/cadvisor:latest
-#quay.io/tigera/operator:v1.36.5
 #registry.k8s.io/metrics-server/metrics-server:v0.7.2
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-swr.cn-south-1.myhuaweicloud.com/ascendhub/mindie:1.0.0-800I-A2-py311-openeuler24.03-lts --platform=arm64
+quay.io/prometheus/alertmanager:v0.27.0
+quay.io/prometheus/blackbox-exporter:v0.25.0
+ghcr.io/jimmidyson/configmap-reload:v0.13.1
+quay.io/brancz/kube-rbac-proxy:v0.18.1
+grafana/grafana:11.2.0
+registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.13.0
+quay.io/prometheus/node-exporter:v1.8.2
+quay.io/prometheus/prometheus:v2.54.1
+registry.k8s.io/prometheus-adapter/prometheus-adapter:v0.12.0
+quay.io/prometheus-operator/prometheus-operator:v0.76.2
