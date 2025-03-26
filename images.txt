@@ -1,4 +1,10 @@
 #registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.15.0
 #google/cadvisor:latest
 #quay.io/tigera/operator:v1.36.5
-registry.k8s.io/metrics-server/metrics-server:v0.7.2
+#registry.k8s.io/metrics-server/metrics-server:v0.7.2
+#支持私库
+#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+#xhofe/alist:latest
+#支持指定架构
+#--platform=linux/arm64 xiaoyaliu/alist
+swr.cn-south-1.myhuaweicloud.com/ascendhub/mindie:1.0.0-800I-A2-py311-openeuler24.03-lts --platform=arm64
