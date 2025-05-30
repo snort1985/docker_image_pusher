@@ -21,4 +21,4 @@
 #milvusdb/milvus
 #quay.io/minio/minio:latest
 #quay.io/coreos/etcd:latest
-etcd
+quay.io/coreos/etcd:latest
