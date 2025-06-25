@@ -23,4 +23,4 @@
 #quay.io/coreos/etcd:latest
 #quay.io/coreos/etcd:latest
 pgvector/pgvector:pg17
-supersonicbi/supersonic:last
+#supersonicbi/supersonic:last
