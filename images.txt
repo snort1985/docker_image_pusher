@@ -22,5 +22,5 @@
 #quay.io/minio/minio:latest
 #quay.io/coreos/etcd:latest
 #quay.io/coreos/etcd:latest
-pgvector/pgvector:pg17
-#supersonicbi/supersonic:last
+#pgvector/pgvector:pg17
+supersonicbi/supersonic
