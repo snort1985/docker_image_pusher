@@ -25,3 +25,8 @@
 #pgvector/pgvector:pg17
 #supersonicbi/supersonic
 qdrant
+bootstrap
+wren-ui
+ibis-server
+wren-engine
+wren-ai-service
