@@ -25,8 +25,8 @@
 #pgvector/pgvector:pg17
 #supersonicbi/supersonic
 #ghcr.io/canner/wren-bootstrap:0.1.5
-ghcr.io/canner/wren-engine:0.10.0
-ghcr.io/canner/wren-engine-ibis:0.10.0
+#ghcr.io/canner/wren-engine:0.10.0
+#ghcr.io/canner/wren-engine-ibis:0.10.0
 ghcr.io/canner/wren-ai-service:0.25.0
 ghcr.io/canner/wren-ui:0.25.0
 #qdrant/qdrant:v1.11.0
