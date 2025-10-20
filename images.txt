@@ -44,5 +44,6 @@
 #goharbor/prepare:v2.13.1
 #postgres:15
 #n8nio/n8n:latest
-cozeai/coze-dev:latest
+cozeai/coze-backend:latest
+cozeai/coze-frontend:latest
 
