@@ -42,6 +42,7 @@
 #goharbor/harbor-portal:v2.13.1
 #goharbor/harbor-db:v2.13.1
 #goharbor/prepare:v2.13.1
-postgres:15
-n8nio/n8n:latest
+#postgres:15
+#n8nio/n8n:latest
+cozeai/coze-dev:latest
 
